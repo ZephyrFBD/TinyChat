@@ -1,6 +1,4 @@
 # TinyChat
-A tiny device which enables you to chat with your friends without phones.
-# Introduce
 
 TinyChat is a **miniature standalone chat device** based on the ESP32-S3.  
 It enables cross-LAN and even cross-Internet messaging without requiring a smartphone.  
