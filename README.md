@@ -105,7 +105,7 @@ ensuring privacy of all messages.
   "msg": "base64(AES_ciphertext)",
   "meta": { "type": "text", "seq": 123 }
 }
-
+```
 
 ⸻
 
