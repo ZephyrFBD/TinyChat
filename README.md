@@ -1,6 +1,6 @@
-# TinyChat
+# PicoWhisp
 
-TinyChat is a **miniature standalone chat device** based on the ESP32-S3.  
+PicoWhisp is a **miniature standalone chat device** based on the ESP32-S3.  
 It enables cross-LAN and even cross-Internet messaging without requiring a smartphone.  
 The device fits into a compact **5 × 5 × 2 cm** enclosure, powered by a single Li-ion cell,  
 and integrates an OLED screen, a 5-way navigation key, a buzzer, and a vibration motor.  
@@ -111,7 +111,7 @@ ensuring privacy of all messages.
 
 📂 Project Structure
 
-/TinyChat
+/PicoWhisp
   /hardware
     schematics/
     PCB/
